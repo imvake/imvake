@@ -1,4 +1,4 @@
-<h5 align="center">Hello, i m Alwaleed "You may call me vake"<br><br>i m sharing with ya'll what ever i feel is good for you and may help you with your software engineer <3</h5>
+<h5 align="center">Hello, i m Alwaleed "You may call me vake"<br><br>i m sharing with ya'll what ever i feel is good for you and may help you with your software engineer career <3</h5>
 
 ###
 
@@ -43,14 +43,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/imvake/imvake/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/alwaleed-alabdali-358921262/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -61,6 +53,12 @@
   <a href="www.instagram.com/kbug" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://imvake.github.io/imvake/images/my_cat_cropped.png"  />
 </div>
 
 ###
