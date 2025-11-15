@@ -11,8 +11,13 @@
 <!-- =========================================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated-wave.svg" width="100%" height="90px"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&animation=twinkling"
+    width="100%"
+  />
 </p>
+
+
 
 <p align="center">
   <strong>A Software Engineer & AI Tools Trainer focused on creating intelligent, future-ready systems.</strong>
