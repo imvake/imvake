@@ -37,7 +37,7 @@ Never failed an academic course — and outside of coding, I enjoy horse riding,
 
 <a href="https://discord.gg/imvake"><img src="https://skillicons.dev/icons?i=discord" width="45"/></a>
 <a href="https://instagram.com/vake"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-<a href="https://linkedin.com/in/alwaleed alabdali"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://www.linkedin.com/in/alwaleed-alabdali-358921262/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 
 💻 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,prisma,postgres,mongodb,mysql,sqlite,redis,python,java,php,laravel,django,flask,fastapi,docker,graphql,apollo,tailwind,vite,webpack,html,css,sass,threejs,cloudflare,firebase,nginx,git,github,linux" /> </p>
