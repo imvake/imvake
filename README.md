@@ -47,5 +47,3 @@ Never failed an academic course — and outside of coding, I enjoy horse riding,
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=imvake&theme=radical&no-frame=false&no-bg=true&margin-w=10"/> </p>
 ✍️ Random Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/> </p>
-🔝 Top Contributed Repos
-<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=imvake&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/> </p>
